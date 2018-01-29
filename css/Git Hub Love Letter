@@ -1,5 +1,20 @@
 body {background-color:lightpink;
 }
+ul {
+list-style-type: none;
+margin: 10;
+padding: 10;
+position: center;
+}
+li {
+display: inline;
+text-align: center;
+}
+li a {
+display: block inline;
+padding: 10px;
+background-color: white
+}
 p {
 font-size: 40px;
 background-color: white;

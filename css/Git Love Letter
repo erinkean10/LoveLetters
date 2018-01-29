@@ -1,5 +1,23 @@
 body {background-color:Crimson;
 }
+h1 {
+text-align: center;
+
+}
+ul {
+list-style-type: none;
+margin: 10;
+padding: 10;
+position: center;
+}
+li {
+display: inline;
+}
+a {
+display: block inline;
+padding: 10px;
+background-color: white
+}
 p {
 font-size: 40px;
 background-color: white;
@@ -20,4 +38,3 @@ background: -webkit-linear-gradient(transparent, transparent),
  background: -o-linear-gradient(transparent, transparent);
  -webkit-background-clip: text;
 }
-p.dashed {border-style: dashed;}
