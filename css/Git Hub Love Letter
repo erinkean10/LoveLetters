@@ -1,0 +1,9 @@
+body {background-color:lightpink;
+}
+p {
+font-size: 40px;
+background-color: white;
+text-align: center;
+width: 10;
+}
+p {background-color:LightPink;}

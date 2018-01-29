@@ -1,15 +1,25 @@
-body {background-color: pink; font-family: "didot", didot;
+{font-family: "didot", didot;
 }
 ul {
 list-style-type: none;
-margin: 0
-padding: 0
+margin: 10;
+padding: 10;
+position: center;
 }
 li {
 display: inline;
+}
+p {
+font-size: 40px;
+background-color: white;
+text-align: center;
+width: 10;
 }
 a {
 display: block inline;
 padding: 10px;
 background-color: white
+}
+body {background-color:Crimson;
+
 }

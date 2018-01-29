@@ -1,0 +1,18 @@
+body {background-color:Crimson;
+}
+p {
+font-size: 40px;
+background-color: white;
+text-align: center;
+width: 10;
+}
+.Sparkle {
+font-size:60px;
+font-family:impact;
+-webkit-text-fill-color: transparent;
+background: -webkit-linear-gradient(transparent, transparent),
+             url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
+ background: -o-linear-gradient(transparent, transparent);
+ -webkit-background-clip: text;
+}
+p {background-color:LightPink;}
