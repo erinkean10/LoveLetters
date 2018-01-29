@@ -6,6 +6,11 @@ background-color: white;
 text-align: center;
 width: 10;
 }
+p.center {
+background-color:LightPink;
+text-align:center;
+text-decoration:underline;
+}
 .Sparkle {
 font-size:60px;
 font-family:impact;
@@ -15,4 +20,4 @@ background: -webkit-linear-gradient(transparent, transparent),
  background: -o-linear-gradient(transparent, transparent);
  -webkit-background-clip: text;
 }
-p {background-color:LightPink;}
+p.dashed {border-style: dashed;}

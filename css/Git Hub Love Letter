@@ -5,5 +5,16 @@ font-size: 40px;
 background-color: white;
 text-align: center;
 width: 10;
+border-style:dashed;
+border-color:darkred;
+margin-right: 20%;
+margin-left: 20%;
 }
-p {background-color:LightPink;}
+h1 {
+text-align: center;
+
+}
+.header img {
+width: 60px;
+height: 70px;
+}
