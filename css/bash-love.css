@@ -1,0 +1,40 @@
+.container {
+    margin: 0 auto;
+    width: 960px
+}
+
+.centerme {
+    text-align: center;
+}
+body {font-family: "didot", didot;
+}
+h1 {
+text-align: center;
+
+}
+ul {
+list-style-type: none;
+margin: 10;
+padding: 10;
+position: center;
+}
+li {
+display: inline;
+}
+p {
+font-size: 40px;
+background-color: white;
+text-align: center;
+width: 10;
+margin-left: 10%;
+margin-right: 10%;
+margin-bottom:10%;
+}
+a {
+display: block inline;
+padding: 10px;
+background-color: white
+}
+divnav {
+text-align:center;
+}

@@ -1,0 +1,44 @@
+.container {
+    margin: 0 auto;
+    width: 960px
+}
+
+.centerme {
+    text-align: center;
+}
+body {background-color:lightpink;
+}
+h1 {
+text-align: center;
+   font-family: monospace;
+
+}
+ul {
+list-style-type: none;
+margin: 10;
+padding: 10;
+position: center;
+}
+li {
+display: inline;
+}
+a {
+display: block inline;
+padding: 10px;
+background-color: white
+}
+p {
+font-size: 40px;
+background-color: white;
+text-align: center;
+width: 10;
+}
+.Sparkle {
+font-size:40px;
+font-family:monospace;
+-webkit-text-fill-color: transparent;
+background: -webkit-linear-gradient(transparent, transparent),
+             url(http://www.myspacehippo.com/files/glitterbacks/bg345.gif) repeat;
+ background: -o-linear-gradient(transparent, transparent);
+ -webkit-background-clip: text;
+}
