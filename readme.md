@@ -1,9 +1,6 @@
 # Love Letters
 ## By Erin Kean
 
-Project Title
-Getting Started
-Installing
-- step by step
-Built With
-Authors
+This project is to confess my love for BASH, GIT, and Github.
+ 
+
