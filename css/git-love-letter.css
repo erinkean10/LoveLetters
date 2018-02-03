@@ -1,6 +1,12 @@
 .navbar {
     font-family: fantasy;
 }
+a:visited{
+    color:lightcoral
+}
+a:hover{
+    color:darkorchid;
+}
 .container {
     margin: 0 auto;
     width: 960px

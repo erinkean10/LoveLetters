@@ -37,7 +37,16 @@ a {
 display: block inline;
 padding: 10px;
 background-color: white
+
 }
+a:visited{
+    color:lightcoral
+}
+a:hover{
+    color:darkorchid;
+}
+
+
 divnav {
 text-align:center;
 }
